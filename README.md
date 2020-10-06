@@ -9,3 +9,11 @@
 **Thoughts:** I do have python experience but I've let it slip a bit in recent times. No harm in going back to basics to brush up again.
 
 **Link to work:** [Magic 8 ball](https://github.com/AdamKelly/invent_games_with_python/blob/main/magic8ball.py)
+
+### Day 2: October 6th, 2020
+
+**Today's Progress**: Today was get requests and manipulating the returned data, namely how many people are in space right now.
+
+**Thoughts:** Iterating over nested dictionaries can be tough at times. It works but I'm sure I can make it better.
+
+**Link to work:** [Astronauts in space](https://github.com/AdamKelly/misc_python/blob/main/astronauts_in_space.py)
