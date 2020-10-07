@@ -17,3 +17,11 @@
 **Thoughts:** Iterating over nested dictionaries can be tough at times. It works but I'm sure I can make it better.
 
 **Link to work:** [Astronauts in space](https://github.com/AdamKelly/misc_python/blob/main/astronauts_in_space.py)
+
+### Day 3: October 7th, 2020
+
+**Today's Progress**: Wrote a python script which opens an email template even if Outlook is closed. The recipient, subject, and a html table are included. The idea is to plan the six most important tasks to accomplish the following day using the Ivy Lee method. At the moment it triggers the email at 21:00 each night via Windows Task Scheduler.
+
+**Thoughts:** Finding out how to display the html table properly was the longest part.
+
+**Link to work:** [Ivy Lee Organiser](https://github.com/AdamKelly/misc_python/blob/main/ivy_lee_organiser.py)
