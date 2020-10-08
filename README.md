@@ -25,3 +25,11 @@
 **Thoughts:** Finding out how to display the html table properly was the longest part.
 
 **Link to work:** [Ivy Lee Organiser](https://github.com/AdamKelly/misc_python/blob/main/ivy_lee_organiser.py)
+
+### Day 4: October 8th, 2020
+
+**Today's Progress**: Went back to the python game book. Currently working through the Hangman game.
+
+**Thoughts:** Coding at night is a bad idea :)
+
+**Link to work:** [Hangman](https://github.com/AdamKelly/invent_games_with_python/blob/main/hangman.py)
