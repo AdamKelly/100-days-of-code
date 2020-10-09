@@ -33,3 +33,11 @@
 **Thoughts:** Coding at night is a bad idea :)
 
 **Link to work:** [Hangman](https://github.com/AdamKelly/invent_games_with_python/blob/main/hangman.py)
+
+### Day 5: October 9th, 2020
+
+**Today's Progress**: Stumbled across the book “Python Crash Course” by Eric Matthes and got sucked right in. Sometimes it nice to revise the fundamentals and smash the basic exercises 😊 Worked on hangman again which gave me some ideas for a side project. 
+
+**Thoughts:** Happy with today's work as I had forgotten some of the basics.
+
+**Link to work:** All exercises were stored locally today.
