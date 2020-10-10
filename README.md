@@ -41,3 +41,11 @@
 **Thoughts:** Happy with today's work as I had forgotten some of the basics.
 
 **Link to work:** All exercises were stored locally today.
+
+### Day 6: October 10th, 2020
+
+**Today's Progress**: Worked through the chapter on lists and completed all the exercises.
+
+**Thoughts:** Will code in the morning tomorrow.
+
+**Link to work:** All exercises were stored locally today.
