@@ -49,3 +49,17 @@
 **Thoughts:** Will code in the morning tomorrow.
 
 **Link to work:** All exercises were stored locally today.
+
+### Day 7: October 11th, 2020
+
+**Today's Progress**: Sunday = rest day
+
+### Day 8: October 12th, 2020
+
+**Today's Progress**: Spent the evening playing with Google's speech recognition in python.
+
+**Thoughts:** Will come up with some pseudo code tomorrow to incorporate this into a personal organiser type app.
+
+**Link to work:** All exercises were stored locally today.
+
+
