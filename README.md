@@ -62,4 +62,18 @@
 
 **Link to work:** All exercises were stored locally today.
 
+### Day 9: October 13th, 2020
 
+**Today's Progress**: Another evening of playing with Google's speech recognition in python.
+
+**Thoughts:**
+
+**Link to work:** All code stored locally.
+
+### Day 10: October 14th, 2020
+
+**Today's Progress**: Started working on the virtual assistant in python. Wake phrase feature working well. 
+
+**Thoughts:** Realised my recording audio function for my input is not as versatile or reusable as it should be. Needs an overhaul tomorrow.
+
+**Link to work:** All code stored locally.
