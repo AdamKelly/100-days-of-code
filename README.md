@@ -77,3 +77,11 @@
 **Thoughts:** Realised my recording audio function for my input is not as versatile or reusable as it should be. Needs an overhaul tomorrow.
 
 **Link to work:** All code stored locally.
+
+### Day 11: October 15th, 2020
+
+**Today's Progress**: I built a pretty decent looking portfolio website a few weeks back. In the process of adding a blog section.
+
+**Thoughts:** Making a website is easy. Filling it with decent content is the problem!
+
+**Link to work:** All code stored locally.
