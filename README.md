@@ -85,3 +85,11 @@
 **Thoughts:** Making a website is easy. Filling it with decent content is the problem!
 
 **Link to work:** All code stored locally.
+
+### Day 12: October 16th, 2020
+
+**Today's Progress**: Virtual assistant is coming along. It responds to the wake phrase and asks me what I want to do. I say “exercise” and it searches a dictionary for the corresponding routine based on the day of the week. Next step, query previous workout info.
+
+**Thoughts:** 
+
+**Link to work:** All code stored locally.
