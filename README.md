@@ -93,3 +93,11 @@
 **Thoughts:** 
 
 **Link to work:** All code stored locally.
+
+### Day 13: October 17th, 2020
+
+**Today's Progress**: Added some minor features to the virtual assistant. Workout videos will open based on the weekly schedule. Excel opens by voice command to track details. The browser can be closed on voice command as well. Need to look into how to pause the video. 
+
+**Thoughts:** 
+
+**Link to work:** All code stored locally.
