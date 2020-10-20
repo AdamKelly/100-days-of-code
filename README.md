@@ -101,3 +101,23 @@
 **Thoughts:** 
 
 **Link to work:** All code stored locally.
+
+### Day 14: October 18th, 2020
+
+**Today's Progress**: Sunday is always a rest day!
+
+### Day 15: October 19th, 2020
+
+**Today's Progress**: Spent hours learning Selenium to automate Gmail login process, so I could then open an authenticated YouTube profile. Next step is to control the elements such as pause by voice commands.
+
+**Thoughts:** Gmail login process works for now, however Chrome does recognise that is it being controlled by an automation application. After researching the topic, it is a common issue that Google do block this activity on a regular basis. How long my login process works for remains to be seen.
+
+**Link to work:** All code stored locally.
+
+### Day 16: October 20th, 2020
+
+**Today's Progress**: The virtual assistant can now pause/play videos on Youtube using voice commands. It's pretty straight forward to do when using Selenium.
+
+**Thoughts:** It's time to pause and go back and do a review/code refinement on some functions as the code in some is sloppy. I also want to incorporate some performance testing and get some timings. 
+
+**Link to work:** All code stored locally.
